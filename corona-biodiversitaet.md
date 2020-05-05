@@ -13,6 +13,8 @@ Pandemien wie Corona sind wahrscheinlicher geworden, weil wir die Artenvielfalt 
 
 Wie hängen die durch das Corona-Virus ausgelöste Gesundheitskrise, die Biodiversitätskrise und die *Great Acceleration* [@steffenTrajectoryAnthropoceneGreat2015], mit der die Erde das Holozän verlassen hat, genau zusammen? Ich stelle hier für [Extinction Rebellion Austria](https://xrebellion.at/ "Extinction Rebellion Austria – Rebellion für das Leben") Argumente und Material aus Wissenschaft und seriösem Journalismus zusammen, um vor dem Hintergrund der Corona-Pandemie Aktivismus gegen die Biodiversitätskrise zu begründen.
 
+(Diese Sammlung ist nicht fertig. Die Quelldateien und eventuell ältere Versionen sind [auf GitHub](https://github.com/heinzwittenbrink/corona-biodiversity "heinzwittenbrink/corona-biodiversity: Material concerning connections between the corona crisis and the ecological breakdown") zugänglich.
+
 Mir kommt es dabei auch darauf an, nicht in ideologische Argumentationen zu verfallen, wie sie z.B. in addendum Verfechtern der Biodiversität unterstellt werden[@kuntzleUrsprungUndVerbreitung2020]. Für Aktivismus, der sich auf die Wissenschaft beruft, ist es wichtig, dass die Beziehungen eines Phänomens wie der Corona-Epidemie zur Zerstörung der Biodiversität gesichert sind, wenn mit ihnen argumentiert wird.
 
 Ich konzentriere mich zuerst auf die Entstehung der Pandemie. Aber auch Verlauf und Folgen dieser Pandemie lassen sich nicht vom *ecological breakdown* und dem Wirtschaftssystem, das zu ihm geführt hat, trennen.
