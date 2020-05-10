@@ -135,7 +135,9 @@ Pandemien wie SARS-2 werden durch die Zerstörung der Biodiversität wahrscheinl
 
 > A simpler classification has three main classes, conceptualized as “direct” (e.g.,heatwaves), “indirect” (e.g., changes in vector ecology) and a third category, causally more displaced, with the potential for the largest burden of disease, through means such as large-scale conflict, migration and famine.
 
-In den Ländern des globalen Südens verläuft die Pandemie anders als im globalen Norden. Sowohl die Bedrohungen wie die Möglichkeiten, auf sie zu reagieren unterscheiden sich deutlich. Im globalen Norden im globalen Norden wird mit SARS-2 als mit einer spezifischen Krankheit umgegangen. Im globalen Süden verschärfen die Krankheit und die Reaktionen auf die Krankheit andere Bedrohungslagen. Und auch innerhalb der reicheren und der ärmeren Länder erleben Menschen die krankheit unterschiedlich, abhängig von ihrer politischen und sozialen Situation. Es ist ein Privileg, wenn die Krankheit nur als Krankheit erlebt wird, als ein Ereignis, für das die Medizin zuständig ist. Für die Mehrheit der Menschen und in der Mehrheit der Gesellschaften ist COVID-19 die Verschlimmerung komplexer Bedrohungslagen. The Lancet verweist auf den Gesundheitssoziologen Didier Fassin und sein Buch *Das Leben&mdash;eine kritische Gebrauchsanweisung* [@fassinLebenKritischeGebrauchsanweisung2017]:
+Corona ist im globalen Süden wie im globalen Norden ein *Public Health*-Issue, aber nicht in derselben Weise. Sowohl die Bedrohungen wie die Möglichkeiten, auf sie zu reagieren unterscheiden sich deutlich. Auch bei dieser Epidemie wird dabei deutlich, wie eng globaler Süden und globaler Norden miteinander verbunden sind. Die Überlastung der ökologischen Systeme hat dabei im globalen Süden direktere Folgen als im globalen Norden, der von dieser Überlastung am meisten profitiert.
+
+Im globalen Norden im globalen Norden wird mit SARS-2 als mit einer spezifischen Krankheit umgegangen. Im globalen Süden verschärfen die Krankheit und die Reaktionen auf die Krankheit andere Bedrohungslagen. Und auch innerhalb der reicheren und der ärmeren Länder erfahren Menschen die Krankheit unterschiedlich, abhängig von ihrer politischen und sozialen Situation. Es ist ein Privileg, wenn die Krankheit nur als Krankheit erlebt wird, als ein Ereignis, für das die Medizin zuständig ist. Für die Mehrheit der Menschen und in der Mehrheit der Gesellschaften ist COVID-19 die Verschlimmerung komplexer Bedrohungslagen. The Lancet verweist [@hortonOfflineGlobalHealth2020] auf den Gesundheitssoziologen Didier Fassin und sein Buch *Das Leben&mdash;eine kritische Gebrauchsanweisung* [@fassinLebenKritischeGebrauchsanweisung2017]:
 
 > Er stellt die wachsende Legitimität derjenigen, die an einer biologisch definierten Krankheit leiden, der sinkenden Legitimität des Lebens in einem bestimmten sozialen Umfeld (z.B. in Armut) gegenüber. Das Physische hat sich gegenüber dem Politischen durchgesetzt. Fassin bezeichnet diesen ethischen Trend als "Biolegitimität" - eine Legitimität des Lebens, die in biologischen Begriffen definiert ist. [...] Es gibt keine Möglichkeit, die öffentliche Meinung zu mobilisieren, um Bedrohungen des politischen Lebens zu verteidigen, eines Lebens, das z.B. durch Ungleichheit gekennzeichnet ist. SARS-CoV-2 befällt bevorzugt diejenigen, die verwundbarer, weniger gut belohnt und für die Machthaber unsichtbarer sind. [...] Die "Politik des Lebens", schreibt er, "ist immer Politik der Ungleichheit".
 
@@ -143,12 +145,10 @@ In den Ländern des globalen Südens verläuft die Pandemie anders als im global
 
 Vor allem in den armen ländern betrifft die Bedrohung durch COVID-19 die
 
-- Ernährung, indem sie bereits vorhandene Notlagen verschärfen und die Versorung mit Nahrungsmitteln durch Ferntransporte erschweren,
+- Ernährung, indem sie bereits vorhandene Notlagen verschärft und die Versorung mit Nahrungsmitteln durch Ferntransporte erschwert,
 - medizinische Versorgung, die für bereits vorher vorhandene Krankheiten und Epidemien nicht ausreicht,
 - prekäre wirtschaftliche Situation insbesondere von Menschen, die von Tagelohn abhängig sind oder zur Migration gezwungen waren,
 - existenzielle Gefährdung von indigenen Völkern.
-
-Corona ist im globalen Süden wie im globalen Norden ein *Public Health*-Issue, aber nicht in derselben Weise. Auch bei dieser Epidemie wird dabei deutlich, wie eng globaler Süden und globaler Norden miteinander verbunden sind. Die Überlastung der ökologischen Systeme hat dabei im globalen Süden direktere Folgen als im globalen Norden, der von dieser Überlastung am meisten profitiert.
 
 Wir können noch nicht abschätzen, welche Folgen die Pandemie insgesamt im globalen Süden haben wird. U.a. wissen wir nicht, wie sich die globale Wirtschaftskrise auswirken wird, zu der die Pandemie bereits geführt hat. Bisher liegen vor allem Berichte von Hilfsorganisationen, Journalistinnen und Journalisten und betroffenen vor. Wissenschaftliche Untersuchungen wurden angeregt.
 
@@ -161,7 +161,7 @@ Besonders bedrohlich ist die Coronakrise für arme Länder, die auf Lebensmittel
 
 ## Migration und Wanderarbeit
 
-Migrantinnen und Migranten gehören zu den besonders gefährdeten Gruppen. Über die Lage in Burkina Faso heisst es in demm Blogpost *Multiple Bedrohung&mdash;Covid-19 und die humanitäre Krise in Burkina Faso* von *Ärzte ohne Grenzen* [@hassanMultipleBedrohungCovid192020]: 
+Migrantinnen und Migranten gehören zu den besonders gefährdeten Gruppen. Über die Lage in Burkina Faso heisst es in demm Blogpost *Multiple Bedrohung&mdash;Covid-19 und die humanitäre Krise in Burkina Faso* von *Ärzte ohne Grenzen* [@hassanMultipleBedrohungCovid192020]:
 
 > Denn Burkina Faso sieht sich ohnehin schon mit einer beispiellosen humanitären Krise, gezeichnet von Gewalt und Vertreibung, konfrontiert.
 
