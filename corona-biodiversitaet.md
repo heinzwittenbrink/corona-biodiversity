@@ -7,15 +7,23 @@ csl: apa.csl
 link-citations: true
 ---
 
-In der Öffentlichkeit wird die Corona-Verbreitung meist als eine Pandemie dargestellt, bei der ein Virus weltweit von Mensch zu Mensch übertragen wird. Diese Sicht ist verkürzt. Die Coronakrise lässt sich als Teil einer Krise verstehen, die durch das Überschreiten der *Planetary Boundaries* [@steffenPlanetaryBoundariesGuiding2015] ausgelöst wurde. Coronakrise und Klimakrise sind damit zwei Aspekte derselben Entwicklung.
+In der Öffentlichkeit wird die Corona-Pandemie meist als eine Gesundheitskrise dargestellt, bei der ein Virus weltweit von Mensch zu Mensch übertragen wird. Diese Sicht ist verkürzt. Die COVID-19-Krise betrifft nicht nur die menschliche Gesundheit sondern Gesundheit in einem Sinn, der heute oft als *One Health* bezeichnet wird: Menschliche Gesundheit, Gesundheit von Haustieren, Gesundheit von Wildtieren und Gesundheit von Ökosystemen sind miteinander verbunden. Die Coronakrise lässt sich als Teil einer Krise verstehen, die durch das Überschreiten der *Planetary Boundaries* [@steffenPlanetaryBoundariesGuiding2015] ausgelöst wurde. Coronakrise und Klimakrise sind damit zwei Aspekte derselben Entwicklung. Die Coronakrise fürhrt dazu, dass die Beziehungen zwischen Gesundheitskrisen und der Überlastung der planetaren Systeme, ohne die Leben auf der Erde nicht möglich wäre, mehr als bisher thematisiert werden (zusammenfassend zur Beziehung zwischen *Public Health* und *Planetary Boundaries*: @butlerEnvironmentalHealthPlanetary2019).
 
-Pandemien wie Corona sind wahrscheinlicher geworden, weil wir die Artenvielfalt durch Entwaldung und die Einrichtung von Monokulturen für die globalisierte Wirtschaft zerstören. Sie können sich durch den internationalen Verkehr in kürzester Zeit ausbreiten. Sie treffen diejenigen am härtesten, die durch mangelhafte Gesundheitssysteme, Armut, Migration, Luftverschmutzung und andere ökologische Katastrophen besonders verwundbar sind.  
+Pandemien wie Corona sind wahrscheinlicher geworden, weil wir die Artenvielfalt durch Entwaldung und die Einrichtung von Monokulturen für die globalisierte Wirtschaft zerstören. Sie können sich durch den internationalen Verkehr, Urbanisierung und globalen Handel in kürzester Zeit ausbreiten. Sie treffen diejenigen am härtesten, die durch mangelhafte Gesundheitssysteme, Armut, Migration, Luftverschmutzung und andere ökologische Katastrophen besonders verwundbar sind. Sie können zur globalen Gesundheits- und Wirtschaftskrisen werden, weil ökologische Ungerechtigkeit und globale Arbeitsteilung resiliente Strukturen zerstört oder verhindert haben.
+
+Die Coronakrise gehört nicht nur zu den Folgen eines Wirtschaftwachstums über die planetaren Grenzen hinaus. Sie zeigt auch, dass dass die Menschheit trotz ihere dominierenden Rolle nur ein verletzlicher Teil des Erdsystems ist, der nur als eine Komponente dieses Systems überleben kann und immer verwundbar bleiben wird. Die englische Medizin-Zeitschrift The Lancet spricht von einer *Krise des Lebens selbst* [@hortonOfflineGlobalHealth2020]:
+
+> Diese globale Katastrophe ist keine Gesundheitskrise. In ihr geht es um das Leben selbst. In den letzten Jahren waren wir versucht, die Allmacht unserer Spezies anzunehmen [...] Aber wir sind nur eine Spezies unter vielen, und wir haben sicherlich keinen dominierenden Einfluss, wenn wir mit einem Virus konfrontiert sind, das Leben mit solcher Leichtigkeit und geschwindigkeit zerstören kann.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
 Wie hängen die durch das Corona-Virus ausgelöste Gesundheitskrise, die Biodiversitätskrise und die *Great Acceleration* [@steffenTrajectoryAnthropoceneGreat2015], mit der die Erde das Holozän verlassen hat, genau zusammen? Ich stelle hier für [Extinction Rebellion Austria](https://xrebellion.at/ "Extinction Rebellion Austria – Rebellion für das Leben") Argumente und Material aus Wissenschaft und seriösem Journalismus zusammen, um vor dem Hintergrund der Corona-Pandemie Aktivismus gegen die Biodiversitätskrise zu begründen.
 
-(Diese Sammlung ist nicht fertig. Die Quelldateien und eventuell ältere Versionen sind [auf GitHub](https://github.com/heinzwittenbrink/corona-biodiversity "heinzwittenbrink/corona-biodiversity: Material concerning connections between the corona crisis and the ecological breakdown") zugänglich.
+Mir kommt es dabei auch darauf an, nicht in ideologische Argumentationen zu verfallen, wie sie z.B. in addendum Verfechtern der Biodiversität unterstellt werden [@kuntzleUrsprungUndVerbreitung2020]. Für Aktivismus, der sich auf die Wissenschaft beruft, ist es wichtig, dass die Beziehungen eines Phänomens wie der Corona-Epidemie zur Zerstörung der Biodiversität und zur Klimakrise gesichert sind, wenn mit ihnen argumentiert wird.
 
-Mir kommt es dabei auch darauf an, nicht in ideologische Argumentationen zu verfallen, wie sie z.B. in addendum Verfechtern der Biodiversität unterstellt werden[@kuntzleUrsprungUndVerbreitung2020]. Für Aktivismus, der sich auf die Wissenschaft beruft, ist es wichtig, dass die Beziehungen eines Phänomens wie der Corona-Epidemie zur Zerstörung der Biodiversität gesichert sind, wenn mit ihnen argumentiert wird.
+(Diese Sammlung ist nicht fertig. Die Quelldateien und ältere Versionen sind [auf GitHub](https://github.com/heinzwittenbrink/corona-biodiversity "heinzwittenbrink/corona-biodiversity: Material concerning connections between the corona crisis and the ecological breakdown") zugänglich.
+
+## COVID-19 als Zoonose und die Zerstörung der Biodiversität
 
 Ich konzentriere mich zuerst auf die Entstehung der Pandemie. Aber auch Verlauf und Folgen dieser Pandemie lassen sich nicht vom *ecological breakdown* und dem Wirtschaftssystem, das zu ihm geführt hat, trennen.
 
@@ -109,7 +117,7 @@ Der französische Gesundheitsökologe Serge Morand drückt diesen Zusammenhang s
 
 (Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
-## One Health Approach
+## One Health Approach und Schutz der Biodiversität
 
 Aufgrund dieses Zusammenhangs lässt sich das Risiko von Pandemien nur dadurch senken, dass die Zerstörung der noch vorhandenen Biotope für Wildtiere aufhört. Im April hat die Spitze des Weltbiodiversitätsrats (IPBES) in einem dramatischen Appell darauf hingewiesen [@setteleCOVID19StimulusMeasures2020]. Die Wissenschaftler*innen fordern vor allem, dass die Mittel zur Förderung der Wirtschaft nach der Coronakrise dazu verwendet werden, die Biodiversität zu erhalten, statt sie weiter zu zerstören (Zitate aus der auf der IBPES-Webseite veröffentlichten [deutschen Version des Textes](https://ipbes.net/sites/default/files/2020-04/COVID19%20Stimulus%20IPBES%20Guest%20Article_German_0.pdf]):
 
@@ -120,6 +128,65 @@ Aufgrund dieses Zusammenhangs lässt sich das Risiko von Pandemien nur dadurch s
 > Ungebremste Abholzung,   unkontrollierte   Ausdehnung   der   Landwirtschaft,   intensive   Landnutzung,  Bergbau  und  Infrastrukturentwicklung  sowie  die  Ausbeutung wildlebender Arten haben geradezu perfekte Bedingungen dafür geschaffen, dass  Krankheitserreger von der  Tierwelt  auf  den  Menschen  übergreifen.  Dies  geschieht  oft  in  Gebieten,  in  denen  Menschen in lokalen und indigenen Gemeinschaften leben, die für Infektionskrankheiten oft am anfälligsten sind.
 
 Die Krise der Biodiversität und die unhygienische Haltung von Haustieren machen Pandemien wahrscheinlicher, ihre Ausbreitung hängt eng mit den ökologisch-sozialen Bedingungen zusammen, unter denen die erkrankten Menschen leben. Deshalb lassen sich solche Pandemien nicht allein durch auf herkömmliche humanmedizinische Methoden bekämpfen. Sie erfordern den sogenannen *One Health Approach*, der die Gesundheit der Menschen, Wildtiere, Haustiere und der Umwelt als untrennbar miteinander verbunden begreift. Vor allem internatioale Organisationen orientieren sich seit einiger Zeit an diesem Zugang.
+
+## Globale Ausbreitung der Pandemie, Belastung von Ökosystemen und ökologische Gerechtigkeit
+
+Pandemien wie SARS-2 werden durch die Zerstörung der Biodiversität wahrscheinlicher. Wie sie verlaufen, hängt ebenfalls von den ökologisch-sozialen Bedingungen ab. In der Literatur werden die Beziehungen zwischen der Zerstörung der ökologischen Lebensgrundlagen und Gesundheitskrisen unterschiedlich klassifiziert (@butlerEnvironmentalHealthPlanetary2019, S. 539):
+
+> A simpler classification has three main classes, conceptualized as “direct” (e.g.,heatwaves), “indirect” (e.g., changes in vector ecology) and a third category, causally more displaced, with the potential for the largest burden of disease, through means such as large-scale conflict, migration and famine.
+
+In den Ländern des globalen Südens verläuft die Pandemie anders als im globalen Norden. Sowohl die Bedrohungen wie die Möglichkeiten, auf sie zu reagieren unterscheiden sich deutlich. Im globalen Norden im globalen Norden wird mit SARS-2 als mit einer spezifischen Krankheit umgegangen. Im globalen Süden verschärfen die Krankheit und die Reaktionen auf die Krankheit andere Bedrohungslagen. Und auch innerhalb der reicheren und der ärmeren Länder erleben Menschen die krankheit unterschiedlich, abhängig von ihrer politischen und sozialen Situation. Es ist ein Privileg, wenn die Krankheit nur als Krankheit erlebt wird, als ein Ereignis, für das die Medizin zuständig ist. Für die Mehrheit der Menschen und in der Mehrheit der Gesellschaften ist COVID-19 die Verschlimmerung komplexer Bedrohungslagen. The Lancet verweist auf den Gesundheitssoziologen Didier Fassin und sein Buch *Das Leben&mdash;eine kritische Gebrauchsanweisung* [@fassinLebenKritischeGebrauchsanweisung2017]:
+
+> Er stellt die wachsende Legitimität derjenigen, die an einer biologisch definierten Krankheit leiden, der sinkenden Legitimität des Lebens in einem bestimmten sozialen Umfeld (z.B. in Armut) gegenüber. Das Physische hat sich gegenüber dem Politischen durchgesetzt. Fassin bezeichnet diesen ethischen Trend als "Biolegitimität" - eine Legitimität des Lebens, die in biologischen Begriffen definiert ist. [...] Es gibt keine Möglichkeit, die öffentliche Meinung zu mobilisieren, um Bedrohungen des politischen Lebens zu verteidigen, eines Lebens, das z.B. durch Ungleichheit gekennzeichnet ist. SARS-CoV-2 befällt bevorzugt diejenigen, die verwundbarer, weniger gut belohnt und für die Machthaber unsichtbarer sind. [...] Die "Politik des Lebens", schreibt er, "ist immer Politik der Ungleichheit".
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
+
+Vor allem in den armen ländern betrifft die Bedrohung durch COVID-19 die
+
+- Ernährung, indem sie bereits vorhandene Notlagen verschärfen und die Versorung mit Nahrungsmitteln durch Ferntransporte erschweren,
+- medizinische Versorgung, die für bereits vorher vorhandene Krankheiten und Epidemien nicht ausreicht,
+- prekäre wirtschaftliche Situation insbesondere von Menschen, die von Tagelohn abhängig sind oder zur Migration gezwungen waren,
+- existenzielle Gefährdung von indigenen Völkern.
+
+Corona ist im globalen Süden wie im globalen Norden ein *Public Health*-Issue, aber nicht in derselben Weise. Auch bei dieser Epidemie wird dabei deutlich, wie eng globaler Süden und globaler Norden miteinander verbunden sind. Die Überlastung der ökologischen Systeme hat dabei im globalen Süden direktere Folgen als im globalen Norden, der von dieser Überlastung am meisten profitiert.
+
+Wir können noch nicht abschätzen, welche Folgen die Pandemie insgesamt im globalen Süden haben wird. U.a. wissen wir nicht, wie sich die globale Wirtschaftskrise auswirken wird, zu der die Pandemie bereits geführt hat. Bisher liegen vor allem Berichte von Hilfsorganisationen, Journalistinnen und Journalisten und betroffenen vor. Wissenschaftliche Untersuchungen wurden angeregt.
+
+## Die Coronakrise und die Nahrungsmittelversorgung
+
+Besonders bedrohlich ist die Coronakrise für arme Länder, die auf Lebensmittel-Importe angewiesen sind. Oft dürfte ein Grund dafür sein, dass die lokale Subsistenzwirtschaft durch Produktion für internationale Märkte ersetzt wurde. In vielen Ländern hat der Klimawandel die Nahrungsmittelversorgung schon vor der Coronakrise gefährdet. Die Maßnahmen gegen die Pandemie erschweren jetzt die lebensnotwendigen Importe von Lebensmitteln.
+
+> The impact upon human wellbeing resulting from stress on biological diversity will be compounded by climate change and the fragmentation of society. For example, a complex economic and social fabric enables the importation of food and other resources to an increasing number of regions, some of which have been in this vulnerable situation for decades." [@butlerEnvironmentalHealthPlanetary2019, S. 538]
+
+
+## Migration und Wanderarbeit
+
+Migrantinnen und Migranten gehören zu den besonders gefährdeten Gruppen. Über die Lage in Burkina Faso heisst es in demm Blogpost *Multiple Bedrohung&mdash;Covid-19 und die humanitäre Krise in Burkina Faso* von *Ärzte ohne Grenzen* [@hassanMultipleBedrohungCovid192020]: 
+
+> Denn Burkina Faso sieht sich ohnehin schon mit einer beispiellosen humanitären Krise, gezeichnet von Gewalt und Vertreibung, konfrontiert.
+
+> Die Zahl der Vertriebenen dürfte bald fast eine Million erreichen, während gleichzeitig der Druck auf jene lokalen Gemeinschaften zunimmt, die die Flüchtenden aufnehmen. Die indirekten Folgen der Coronavirus-Pandemie könnten daher die Notlage auf ein neues Level heben.
+
+> gibt mehr als 800.000 Binnenvertriebene im Land und die UNO schätzt, dass in diesem Jahr mehr als zwei Millionen Menschen humanitäre Hilfe benötigen werden. Die Mehrheit dieser Menschen lebt unter schlechten Bedingungen, mit unzureichendem Zugang zu sauberem Wasser oder medizinischer Versorgung und vielen anderen Problemen.
+
+> Wir dürfen nicht zulassen, dass sich andere Krankheiten wie Malaria, Masern, Meningitis oder Cholera ausbreiten und ebenso viele, wenn nicht sogar mehr Opfer fordern als das Virus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Vorschläge zum Vorgehen von XR/Relevanz für XR
 
