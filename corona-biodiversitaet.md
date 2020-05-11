@@ -63,7 +63,7 @@ Quammen kommt zu dem Ergebnis:
 
 (Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
-
+Die COVID-19-Pandemie ist der bisher folgenreichste Fall der Ausbreitung von neuen Zoonosen. Es gab bereits viele ähnliche Epidemien, und ihr Zusammenhang mit der globalisierten Wirtschaft ist schon lange bekannt. Dieser Zusammenhang betrifft ihren Ursprung durch Tier-Mensch-Kontakte, aber auch ihre Verbreitung durch den globalen Handel und ihre Beschleunigung durch die sanitären Bedingungen in den Slums von Megacities. Außerdem fördert die globale Erhitzung die Übertragung durch tropische Mückenarten. (Ein guter journalistischer Überblicksartikel, in dem Rosamund Southgate, Jonas Schmidt-Chanasit, Christian Drosten, José Gabriel Siri, Silvie Briand und Koert Ritmeijer zitiert werden, ist @rohrlichKampfGegenZoonosen2018. Dagmar Röhrlich erwähnt darin auch den Zusammenhang mit *One Health* und *Global Health*-Bemühungen.)
 
 ## Epidemien und Biodiversität
 
@@ -127,11 +127,15 @@ Aufgrund dieses Zusammenhangs lässt sich das Risiko von Pandemien nur dadurch s
 
 > Ungebremste Abholzung,   unkontrollierte   Ausdehnung   der   Landwirtschaft,   intensive   Landnutzung,  Bergbau  und  Infrastrukturentwicklung  sowie  die  Ausbeutung wildlebender Arten haben geradezu perfekte Bedingungen dafür geschaffen, dass  Krankheitserreger von der  Tierwelt  auf  den  Menschen  übergreifen.  Dies  geschieht  oft  in  Gebieten,  in  denen  Menschen in lokalen und indigenen Gemeinschaften leben, die für Infektionskrankheiten oft am anfälligsten sind.
 
-Die Krise der Biodiversität und die unhygienische Haltung von Haustieren machen Pandemien wahrscheinlicher, ihre Ausbreitung hängt eng mit den ökologisch-sozialen Bedingungen zusammen, unter denen die erkrankten Menschen leben. Deshalb lassen sich solche Pandemien nicht allein durch auf herkömmliche humanmedizinische Methoden bekämpfen. Sie erfordern den sogenannen *One Health Approach*, der die Gesundheit der Menschen, Wildtiere, Haustiere und der Umwelt als untrennbar miteinander verbunden begreift. Vor allem internatioale Organisationen orientieren sich seit einiger Zeit an diesem Zugang.
+Die globale Erhitzung sorgt dafür, dass sich Zoonosen auch in Gebieten verbreiten, in denen sie bisher selten oder unbekannt waren. So hat die Temperaturerhöhung um durchschnittlich 1° dazu geführt, dass Mücken, die das Denguefieber, Chicungunja und andere Tropenkrankheiten übertragen, in La Réunion und Zonen in ähnlicher geografischer Lage häufig geworden sind [@decloitreSanteClimatReunion2020]. Die österreichische Presseagentur APA hat im Februar 2020 eine aktuelle Liste mit Zoonosen veröffentlicht [@CoronavirusAuswahlNeu2020].
+
+
 
 ## Globale Ausbreitung der Pandemie, Belastung von Ökosystemen und ökologische Gerechtigkeit
 
-Pandemien wie SARS-2 werden durch die Zerstörung der Biodiversität wahrscheinlicher. Wie sie verlaufen, hängt ebenfalls von den ökologisch-sozialen Bedingungen ab. In der Literatur werden die Beziehungen zwischen der Zerstörung der ökologischen Lebensgrundlagen und Gesundheitskrisen unterschiedlich klassifiziert (@butlerEnvironmentalHealthPlanetary2019, S. 539):
+Die Krise der Biodiversität und die unhygienische Haltung von Haustieren machen Pandemien wahrscheinlicher, ihre Ausbreitung hängt eng mit den ökologisch-sozialen Bedingungen zusammen, unter denen die erkrankten Menschen leben. Deshalb lassen sich solche Pandemien nicht allein durch auf herkömmliche humanmedizinische Methoden bekämpfen. Sie erfordern den sogenannen *One Health Approach*, der die Gesundheit der Menschen, Wildtiere, Haustiere und der Umwelt als untrennbar miteinander verbunden begreift. Vor allem internatioale Organisationen orientieren sich seit einiger Zeit an diesem Zugang.
+
+Wie Epidemien und Pandemien verlaufen, hängt von den ökologisch-sozialen Bedingungen ab. In der Literatur werden die Beziehungen zwischen der Zerstörung der ökologischen Lebensgrundlagen und Gesundheitskrisen unterschiedlich klassifiziert (@butlerEnvironmentalHealthPlanetary2019, S. 539):
 
 > A simpler classification has three main classes, conceptualized as “direct” (e.g.,heatwaves), “indirect” (e.g., changes in vector ecology) and a third category, causally more displaced, with the potential for the largest burden of disease, through means such as large-scale conflict, migration and famine.
 
@@ -143,7 +147,7 @@ Im globalen Norden im globalen Norden wird mit SARS-2 als mit einer spezifischen
 
 (Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
-Vor allem in den armen ländern betrifft die Bedrohung durch COVID-19 die
+Vor allem in den armen Ländern betrifft die Bedrohung durch COVID-19 die
 
 - Ernährung, indem sie bereits vorhandene Notlagen verschärft und die Versorung mit Nahrungsmitteln durch Ferntransporte erschwert,
 - medizinische Versorgung, die für bereits vorher vorhandene Krankheiten und Epidemien nicht ausreicht,
@@ -156,8 +160,17 @@ Wir können noch nicht abschätzen, welche Folgen die Pandemie insgesamt im glob
 
 Besonders bedrohlich ist die Coronakrise für arme Länder, die auf Lebensmittel-Importe angewiesen sind. Oft dürfte ein Grund dafür sein, dass die lokale Subsistenzwirtschaft durch Produktion für internationale Märkte ersetzt wurde. In vielen Ländern hat der Klimawandel die Nahrungsmittelversorgung schon vor der Coronakrise gefährdet. Die Maßnahmen gegen die Pandemie erschweren jetzt die lebensnotwendigen Importe von Lebensmitteln.
 
-> The impact upon human wellbeing resulting from stress on biological diversity will be compounded by climate change and the fragmentation of society. For example, a complex economic and social fabric enables the importation of food and other resources to an increasing number of regions, some of which have been in this vulnerable situation for decades." [@butlerEnvironmentalHealthPlanetary2019, S. 538]
+> Die Auswirkungen auf das menschliche Wohlbefinden, die sich aus der Belastung der biologischen Vielfalt ergeben, werden durch den Klimawandel und die Fragmentierung der Gesellschaft noch verstärkt. Beispielsweise ermöglicht ein komplexes wirtschaftliches und soziales Gefüge die Einfuhr von Nahrungsmitteln und anderen Ressourcen in immer mehr Regionen, von denen sich einige seit Jahrzehnten in dieser verwundbaren Situation befinden.
 
+(@butlerEnvironmentalHealthPlanetary2019, S. 538, übersetzt mit Hilfe von www.DeepL.com/Translator)
+
+## Wasserversorgung
+
+In vielen tropischen Ländern steht nicht genug sauberes Wasser zur Verfügung. Die globale Erhitzung verschärft den Wassermangel. Das macht Vorbeugemaßnahmen wie das Händewaschen schwer oder unmöglich. Ein Beispiel [@kunzelBuildingResilienceClimate2020]:
+
+> Hindou Ibrahim, Koordinatorin einer Frauenorganisation im Tschad, die dem Indigenous Network Africa (IPACC), einer Partnerorganisation von Brot für die Welt, angehört, unterstützt seit Jahren indigene Gemeinschaften im Kampf gegen die Auswirkungen des Klimawandels. Auch wenn der Klimawandel nicht die alleinige Ursache ist, so ist er doch eine wichtige Triebkraft für die feindseligen Entwicklungen im Tschad: von Austrocknung bedrohte Seen, eine stetig zunehmende Wüstenbildung, Temperaturen von bis zu 50°C und anhaltende Dürren führen zu massiver Wasserknappheit. "Wenn das Händewaschen mit Seife unser einziger wirksamer Schutz vor dem Virus ist, wie können wir uns dann schützen, ohne Zugang zu Wasser und Seife zu haben? Diese Fragen werden von Menschen aus den ärmsten Bevölkerungsschichten, die ich zu unterstützen versuche, verzweifelt gestellt. Sie haben panische Angst vor einer Ansteckung, weil ihr Immunsystem ohnehin geschwächt ist und sie kaum Zugang zu medizinischer Versorgung haben. Sie können eine Infektion nicht riskieren", sagt Hindou Ibrahim.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
 ## Migration und Wanderarbeit
 
@@ -170,6 +183,8 @@ Migrantinnen und Migranten gehören zu den besonders gefährdeten Gruppen. Über
 > gibt mehr als 800.000 Binnenvertriebene im Land und die UNO schätzt, dass in diesem Jahr mehr als zwei Millionen Menschen humanitäre Hilfe benötigen werden. Die Mehrheit dieser Menschen lebt unter schlechten Bedingungen, mit unzureichendem Zugang zu sauberem Wasser oder medizinischer Versorgung und vielen anderen Problemen.
 
 > Wir dürfen nicht zulassen, dass sich andere Krankheiten wie Malaria, Masern, Meningitis oder Cholera ausbreiten und ebenso viele, wenn nicht sogar mehr Opfer fordern als das Virus.
+
+Die Corona-Krise verschlimmert nicht nur die Situation der Migranten im globalen Süden, sondern sie macht es denen, die in die reichen Länder des Nordens ausgewandert sind, schwerer oder unmöglich, Geld in ihre Heimatländer zu schicken und die Menschen zu unterstützen, die von ihnen abhängig sind [@kunzelBuildingResilienceClimate2020].
 
 
 
