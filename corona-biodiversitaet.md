@@ -133,17 +133,27 @@ Aufgrund dieses Zusammenhangs lässt sich das Risiko von Pandemien nur dadurch s
 
 Die globale Erhitzung sorgt dafür, dass sich Zoonosen auch in Gebieten verbreiten, in denen sie bisher selten oder unbekannt waren. So hat die Temperaturerhöhung um durchschnittlich 1° dazu geführt, dass Mücken, die das Denguefieber, Chicungunja und andere Tropenkrankheiten übertragen, in La Réunion und Zonen in ähnlicher geografischer Lage häufig geworden sind [@decloitreSanteClimatReunion2020]. Die österreichische Presseagentur APA hat im Februar 2020 eine aktuelle Liste mit Zoonosen veröffentlicht [@CoronavirusAuswahlNeu2020].
 
-
-
 ## Globale Ausbreitung der Pandemie, Belastung von Ökosystemen und ökologische Gerechtigkeit
 
-Die Krise der Biodiversität und die unhygienische Haltung von Haustieren machen Pandemien wahrscheinlicher, ihre Ausbreitung hängt eng mit den ökologisch-sozialen Bedingungen zusammen, unter denen die erkrankten Menschen leben. Deshalb lassen sich solche Pandemien nicht allein durch auf herkömmliche humanmedizinische Methoden bekämpfen. Sie erfordern den sogenannen *One Health Approach*, der die Gesundheit der Menschen, Wildtiere, Haustiere und der Umwelt als untrennbar miteinander verbunden begreift. Vor allem internatioale Organisationen orientieren sich seit einiger Zeit an diesem Zugang.
+Die Krise der Biodiversität und die unhygienische Haltung von Haustieren machen Pandemien wahrscheinlicher, ihre Ausbreitung hängt eng mit den ökologisch-sozialen Bedingungen zusammen, unter denen die erkrankten Menschen leben. Deshalb lassen sich solche Pandemien nicht allein durch auf herkömmliche humanmedizinische Methoden bekämpfen. Sie erfordern den *One Health Approach*, der die Gesundheit der Menschen, Wildtiere, Haustiere und der Umwelt als untrennbar miteinander verbunden begreift. Vor allem internatioale Organisationen orientieren sich seit einiger Zeit an diesem Zugang.
 
 Wie Epidemien und Pandemien verlaufen, hängt von den ökologisch-sozialen Bedingungen ab. In der Literatur werden die Beziehungen zwischen der Zerstörung der ökologischen Lebensgrundlagen und Gesundheitskrisen unterschiedlich klassifiziert (@butlerEnvironmentalHealthPlanetary2019, S. 539):
 
-> A simpler classification has three main classes, conceptualized as “direct” (e.g.,heatwaves), “indirect” (e.g., changes in vector ecology) and a third category, causally more displaced, with the potential for the largest burden of disease, through means such as large-scale conflict, migration and famine.
+> Eine einfachere Klassifikation hat drei Hauptklassen, die als "direkt" (z.B. Hitzewellen) und "indirekt" (z.B. Veränderungen in der Überträgerökologie) konzeptualisiert sind, und eine dritte Kategorie, die kausal stärker verschoben ist und das Potential für die größte Krankheitslast hat, z.B. durch großflächige Konflikte, Migration und Hungersnöte.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
 Corona ist im globalen Süden wie im globalen Norden ein *Public Health*-Issue, aber nicht in derselben Weise. Sowohl die Bedrohungen wie die Möglichkeiten, auf sie zu reagieren unterscheiden sich deutlich. Auch bei dieser Epidemie wird dabei deutlich, wie eng globaler Süden und globaler Norden miteinander verbunden sind. Die Überlastung der ökologischen Systeme hat dabei im globalen Süden direktere Folgen als im globalen Norden, der von dieser Überlastung am meisten profitiert.
+
+Die Corona-Pandemie verbreitet sich ausgehend vom globalen Norden in den globalen Süden. Ihre Ausbreitung folgt dabei den Routen des internationalen Luftverkehrs.
+
+![Abbildung: @hunterCoronavirusThereNo2020](https://images.theconversation.com/files/333440/original/file-20200507-49550-1yjby8j.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=404&fit=crop&dpr=1)
+
+Auch in den ärmeren Regionen ist die Pandemie eine existenzielle Bedrohung, aber in anderen Formen als im globalen Norden [@hunterCoronavirusThereNo2020]:
+
+>  So schrecklich diese letzten Monate auch waren, die gesundheitlichen Auswirkungen in weniger entwickelten Ländern werden noch schlimmer sein. Obwohl wir uns Sorgen machen, dass wir nicht genügend Beatmungsgeräte haben, wurde berichtet, dass mindestens zehn Länder in Afrika kein einziges Beatmungsgerät haben. Während Sauerstoff das Leben des britischen Premierministers rettete, mangelt es in vielen afrikanischen Krankenhäusern an Seife, geschweige denn an Sauerstoff. In Indien ereignen sich über 80% der Todesfälle zu Hause, oft ohne medizinische Interventionen. Eine jüngere Altersstruktur mag zwar weniger Todesfälle pro Million bedeuten, aber die Zahl der Todesfälle wird hoch sein und mit ziemlicher Sicherheit unterschätzt werden.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
 Im globalen Norden im globalen Norden wird mit SARS-2 als mit einer spezifischen Krankheit umgegangen. Im globalen Süden verschärfen die Krankheit und die Reaktionen auf die Krankheit andere Bedrohungslagen. Diese Länder sind von der Klimakrise oft besonders betroffen und damit zusätzlich verwundbar. So hat GermanWatch im Klima Risik Index 2020 festgehalten [@ecksteinGlobalerKlimaRisikoIndex20202019]:
 
@@ -172,11 +182,29 @@ Besonders bedrohlich ist die Coronakrise für arme Länder, die auf Lebensmittel
 
 (@butlerEnvironmentalHealthPlanetary2019, S. 538, übersetzt mit Hilfe von www.DeepL.com/Translator)
 
+# Armut und Verschlechterung der Ernährungssituation
+
+Eine Studie des Londoner King's College und der Australian National University kommt zu dem Ergebnis, dass die durch die Pandemie ausgelöste Wirtschaftskrise im schlimmsten Fall über 500 Millionen Menschen mehr als jetzt unter die Armutsgrenze von $ 5,50 am Tag drücken wird [@editorCoronavirusCouldPush2020]:
+
+> In einem Oxfam-Bericht, der vor den virtuellen Treffen der Finanzminister der G20-Gruppe führender Industrie- und Entwicklungsländer, des Internationalen Währungsfonds und der Weltbank veröffentlicht wurde, hieß es, dass nach der Pandemie, mehr als die Hälfte der Weltbevölkerung von 7,8 Milliarden Menschen in Armut leben könnte.
+
+> Die vom King's College London und der Australian National University durchgeführte Studie besagt, dass ein 20-prozentiger Einkommensrückgang infolge einer durch Covid-19 verursachten Rezession weitere 548 Millionen Menschen unter 5,50 Dollar pro Tag drücken würde - eine der Armutsdefinitionen der Weltbank.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
+
 ## Wasserversorgung
 
 In vielen tropischen Ländern steht nicht genug sauberes Wasser zur Verfügung. Die globale Erhitzung verschärft den Wassermangel. Das macht Vorbeugemaßnahmen wie das Händewaschen schwer oder unmöglich. Ein Beispiel [@kunzelBuildingResilienceClimate2020]:
 
 > Hindou Ibrahim, Koordinatorin einer Frauenorganisation im Tschad, die dem Indigenous Network Africa (IPACC), einer Partnerorganisation von Brot für die Welt, angehört, unterstützt seit Jahren indigene Gemeinschaften im Kampf gegen die Auswirkungen des Klimawandels. Auch wenn der Klimawandel nicht die alleinige Ursache ist, so ist er doch eine wichtige Triebkraft für die feindseligen Entwicklungen im Tschad: von Austrocknung bedrohte Seen, eine stetig zunehmende Wüstenbildung, Temperaturen von bis zu 50°C und anhaltende Dürren führen zu massiver Wasserknappheit. "Wenn das Händewaschen mit Seife unser einziger wirksamer Schutz vor dem Virus ist, wie können wir uns dann schützen, ohne Zugang zu Wasser und Seife zu haben? Diese Fragen werden von Menschen aus den ärmsten Bevölkerungsschichten, die ich zu unterstützen versuche, verzweifelt gestellt. Sie haben panische Angst vor einer Ansteckung, weil ihr Immunsystem ohnehin geschwächt ist und sie kaum Zugang zu medizinischer Versorgung haben. Sie können eine Infektion nicht riskieren", sagt Hindou Ibrahim.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
+
+# Zusätzliche Belastung des Gesundheitssystems
+
+In den Ländern des globalen Südens trifft die Pandemie auf unzureichende und oft durch andere Krankheiten (oft ebenfalls Zoonosen) überlastete Gesundheitssysteme. Eine erste Studie der WHO lässt befürchten, dass die Zahl der Aids-Opfer, insbesondere unter Kindern, dramatisch zunehmen wird [@worldhealthorganizationCostInactionCOVID19related2020]:
+
+> Eine Modellierungsgruppe, die von der Weltgesundheitsorganisation und UNAIDS einberufen wurde, hat geschätzt, dass eine sechsmonatige Unterbrechung der antiretroviralen Therapie in den Jahren 2020-2021 in Afrika südlich der Sahara zu mehr als 500 000 zusätzlichen Todesfällen durch AIDS-assoziierte Krankheiten, einschließlich Tuberkulose, führen könnte, wenn keine Anstrengungen unternommen werden, um die Unterbrechungen der Gesundheitsdienste und -versorgung während der COVID-19-Pandemie zu mildern und zu überwinden. Im Jahr 2018 starben in der Region schätzungsweise 470 000 Menschen an AIDS-bedingten Todesfällen.
 
 (Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
