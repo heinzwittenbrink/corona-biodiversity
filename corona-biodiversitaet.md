@@ -12,12 +12,13 @@ In der Öffentlichkeit wird die Corona-Pandemie meist als eine Gesundheitskrise 
 Die COVID-19-Krise zeigt, wie eng menschliche Gesundheit, Gesundheit von Haustieren, Gesundheit von Wildtieren und Gesundheit von Ökosystemen miteinander verbunden sind. Die Corona-Pandemie ist eine Krise der Gesundheit in einem Sinn, der heute oft als *Planetary Health* bezeichnet wird. Sie ist ein Teil einer Krisensituation, die durch das Überschreiten der *Planetary Boundaries* [@steffenPlanetaryBoundariesGuiding2015] ausgelöst wurde. Coronakrise und Klimakrise sind zwei Aspekte derselben Entwicklung. Die Coronakrise ist damit ein Anlass dafür, die Beziehungen zwischen Gesundheitskrisen und der Überlastung der planetaren Systeme, ohne die Leben auf der Erde nicht möglich wäre, mehr als bisher zu thematisieren.
 
 Wie hängen die durch das Corona-Virus ausgelöste Gesundheitskrise, die Biodiversitätskrise und die *Great Acceleration* [@steffenTrajectoryAnthropoceneGreat2015], mit der die Erde das Holozän verlassen hat, genau zusammen? Ich stelle hier für [Extinction Rebellion Austria](https://xrebellion.at/ "Extinction Rebellion Austria – Rebellion für das Leben") Argumente und Material aus Wissenschaft und seriösem Journalismus zusammen, um vor dem Hintergrund der Corona-Pandemie Aktivismus gegen die Biodiversitätskrise zu begründen.
+<!--more-->
 
 Mir kommt es dabei auch darauf an, nicht in ideologische Argumentationen zu verfallen, wie sie z.B. in addendum Verfechtern der Biodiversität unterstellt werden [@kuntzleUrsprungUndVerbreitung2020]. Für Aktivismus, der sich auf die Wissenschaft beruft, ist es wichtig, dass die Beziehungen eines Phänomens wie der Corona-Epidemie zur Zerstörung der Biodiversität und zur Klimakrise gesichert sind, wenn mit ihnen argumentiert wird.
 
 (Diese Sammlung ist nicht fertig. Die Quelldateien und ältere Versionen sind [auf GitHub](https://github.com/heinzwittenbrink/corona-biodiversity "heinzwittenbrink/corona-biodiversity: Material concerning connections between the corona crisis and the ecological breakdown") zugänglich.
 
-## Public Health, One Health, Planetary health
+## Public Health, One Health, Planetary Health
 
 Es gibt verschiedene Konzepte und Begriffe, um die Abhängigkeiten zwischen individueller Gesundheit und Gesellschaften oder Kollektiven zu erfassen. Bezogen auf eine einzelne Gesellschaft wird von *Public Health* gesprochen, bezogen auf die Verbindungen zwischen individueller, weltweiter und ökologischer Gesundheit von *One Health*. In den letzten Jahren hat sich das Konzept der *planetaren Gesundheit* etabliert, um die Beziehungen zwischen menschlicher und tierischer Gesundheit und dem Erdsystem als ihrer Voraussetzung aufzuzeigen. Maßgeblich dafür war der Bericht der Rockefeller Foundation–Lancet-Kommission über planetare Gesundheit mit dem Titel *Safeguarding human health in the Anthropocene epoch* [@whitmeeSafeguardingHumanHealth2015].
 
