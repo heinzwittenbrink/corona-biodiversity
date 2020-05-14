@@ -7,7 +7,7 @@ csl: apa.csl
 link-citations: true
 ---
 
-In der Öffentlichkeit wird die Corona-Pandemie meist als eine Gesundheitskrise dargestellt, bei der ein Virus weltweit von Mensch zu Mensch übertragen wird. Diese Sicht ist verkürzt: Pandemien wie Corona sind wahrscheinlicher geworden, weil wir die Artenvielfalt durch Entwaldung und die Einrichtung von Monokulturen für die globalisierte Wirtschaft zerstören. Sie können sich durch den internationalen Verkehr, Urbanisierung und globalen Handel in kürzester Zeit ausbreiten. Sie treffen diejenigen am härtesten, die durch mangelhafte Gesundheitssysteme, Armut, Migration, Luftverschmutzung und andere ökologische Katastrophen besonders verwundbar sind. Sie können sich zu globalen Gesundheits- und Wirtschaftskrisen steigern, weil ökologische Ungerechtigkeit und globale Arbeitsteilung resiliente Strukturen zerstört oder verhindert haben.
+In der Öffentlichkeit wird die Corona-Pandemie meist als eine Gesundheitskrise dargestellt, bei der ein Virus weltweit von Mensch zu Mensch übertragen wird. Diese Sicht ist verkürzt: Pandemien wie Sars-CoV-2 sind wahrscheinlicher geworden, weil wir die Artenvielfalt durch Entwaldung und die Einrichtung von Monokulturen für die globalisierte Wirtschaft zerstören. Sie können sich durch den internationalen Verkehr, Urbanisierung und globalen Handel in kürzester Zeit weltweit ausbreiten. Sie treffen diejenigen am härtesten, die durch mangelhafte Gesundheitssysteme, Armut, Migration, Luftverschmutzung und andere ökologische Katastrophen besonders verwundbar sind. Sie können sich zu globalen Gesundheits- und Wirtschaftskrisen steigern, weil ökologische Ungerechtigkeit und globale Arbeitsteilung nachhaltige Strukturen zerstört oder verhindert haben. Sie können endemisch werden und die Gesundheit weltweit dauerhaft gefährden&mdash;auch weil sie aus politischen und wirtschaftlichen Gründen nicht konsequent genug bekämpft werden.
 
 Die COVID-19-Krise zeigt, wie eng menschliche Gesundheit, Gesundheit von Haustieren, Gesundheit von Wildtieren und Gesundheit von Ökosystemen miteinander verbunden sind. Die Corona-Pandemie ist eine Krise der Gesundheit in einem Sinn, der heute oft als *Planetary Health* bezeichnet wird. Sie ist ein Teil einer Krisensituation, die durch das Überschreiten der *Planetary Boundaries* [@steffenPlanetaryBoundariesGuiding2015] ausgelöst wurde. Coronakrise und Klimakrise sind zwei Aspekte derselben Entwicklung. Die Coronakrise ist damit ein Anlass dafür, die Beziehungen zwischen Gesundheitskrisen und der Überlastung der planetaren Systeme, ohne die Leben auf der Erde nicht möglich wäre, mehr als bisher zu thematisieren.
 
@@ -223,6 +223,10 @@ Migrantinnen und Migranten gehören zu den besonders gefährdeten Gruppen. Über
 
 Die Corona-Krise verschlimmert nicht nur die Situation der Migranten im globalen Süden, sondern sie macht es denen, die in die reichen Länder des Nordens ausgewandert sind, schwerer oder unmöglich, Geld in ihre Heimatländer zu schicken und die Menschen zu unterstützen, die von ihnen abhängig sind [@kunzelBuildingResilienceClimate2020].
 
+## Postpandemic
+
+Von der Reaktion auf das Virus hängt auch ab, ob endemisch immer wieder auftreten wird. Am 13.4.2020 hat die WHO gewarnt, dass COVID-19 sich dauerhaft etablieren und damit auch zu einer dauerhaften Gefährdung der menschlichen Gesundheit werden könnte [@fargeThisVirusMay2020]. Wenn Länder die Pandemie nicht konsequent bekämpfen, weil sie ihre Wirtschaft nicht gefährden wollen, dann gefährden sie damit die Gesundheit weltweit und vor allem da, wo die Menschen besonders verwundbar sind.
+
 ## Eine *Krise des Lebens selbst*
 
 Die Coronakrise gehört nicht nur zu den Folgen eines Wirtschaftwachstums über die planetaren Grenzen hinaus. Sie zeigt auch, dass dass die Menschheit trotz ihere dominierenden Rolle nur ein verletzlicher Teil des Erdsystems ist, der nur als eine Komponente dieses Systems überleben kann und immer verwundbar bleiben wird. Die englische Medizin-Zeitschrift The Lancet spricht von einer *Krise des Lebens selbst* [@hortonOfflineGlobalHealth2020]:
@@ -232,27 +236,19 @@ Die Coronakrise gehört nicht nur zu den Folgen eines Wirtschaftwachstums über 
 (Übersetzt mit Hilfe von www.DeepL.com/Translator)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Vorschläge zum Vorgehen von XR/Relevanz für XR
 
-1. Wir müssen uns strikt an der Wissenschaft orientieren.
-2. Risiken und Wahrscheinlichkeiten müssen als solche bezeichnet werden und dürfen nicht mit sicheren Fakten gleichgesetzt werden. Wir können damit argumentieren, dass die Fachleute auf diesem Gebiet davon ausgehen, dass die Zerstörung der Biodiversität zu weiteren Pandemien führen wird. Wir müssen aber vorsichtig mit kausalen Erklärungen im Einzelfall, also bei COVID-19 sein.
-3. Verbunden sind Biodiversitäts-, Klimakrise und die Coronakrise dadurch, dass sie durch massive Eingriffe in das Erdsystem zustandekommen. Im Erdsystem besteht eine Vielzahl von Abhängigkeiten zwischen Klima, Biodiversität, Ernährung und Gesundheit.
-4. Die Ursachen für die Eingriffe ins Erdsystem bilden weitgehend unregulierte, ungerechte und expansive Märkte. Es ist richtig, von Kapitalismus zu sprechen, aber wir müssen auch hier wissenschaftlich und systemorientiert argumentieren und nicht mit einem verkürzten Kapitalismusbegriff, bei dem der Kapitalismus zum Universalschlüssel wird.
-5. Die Corona-Pandemie zeigt, dass auch in Bezug auf die Gesundheit russisch Roulette mit dem Leben von Milliarden von Menschen gespielt wird. Das gilt für den Schutz vor Pandemien wie für ihre Bekämpfung und den Umgang mit ihren Folgen.
-6. In Bezug auf die Biodiversität ist es wie in Bezug auf das Klima schon längst 5 vor 12 gewesen. Die Reaktion von Gremien wie dem IPBES zeigt, wie wichtig ziviler Ungehorsam angesichts bisherigen Untätigkeit der Politik und der drohenden Rückkehr zum Business as Usual ist.
+Für XR will Aktivismus konsequent an der Wissenschaft orientieren. Wir müssen uns an Fakten orientieren und die Begrenztheit des Wissens über die Fakten anerkennen, und wir dürfen diese Fakten nicht einfach als Bestätigung dessen ansehen, was wir immer schon gewusst haben. Wir müssen andererseits das Wissen über die Fakten in Handlungen und Kampagnen übersetzen und mit ihm Menschen zum Engagement gegen den ökologischen Kollaps motivieren.
+
+Angesichts von COVID-19 erlaubt es der Interpretationsrahmen der planetaren Gesundheit, sich an der Wissenschaft zu orientieren und Beziehungen zu den Forderungen nach sofortiger Beendigung von CO2-Emissionen und Zerstörung der Biodiversität herzustellen. *Planetare Gesundheit* ist ein normativer Begriff, der Fakten erschließt und Handlungen begründet. Die [Doctors for Extinction Rebellion](https://www.doctorsforxr.com/ "Doctors for Extinction Rebellion") [@DoctorsExtinctionRebellion] haben bei der Rebellion Week im Oktober 2019 [Aufklärung über *planetary health* mit zivilem Ungehorsam verbunden](https://www.doctorsforxr.com/health-hub "Planetary Health Hub — Doctors for Extinction Rebellion") [@PlanetaryHealthHub]. Richard Horton hat als Herausgeber von The Lancet Ärzte und Mediziner zu zivilem Ungehorsam aufgerufen und sich hinter Extinction Rebellion gestellt [@hortonOfflineExtinctionRebellion2019]:
+
+> Dieses Versagen der Wissenschaftler, sich der Herausforderung der gegenwärtigen Umweltkrise zu stellen, muss in Frage gestellt werden. Die Gesundheitsgemeinschaft bringt zumindest moralische Kraft in die politische Debatte über den Klimaschutz ein. In London ist "Doctors for Extinction Rebellion" "ein Kollektiv von Gesundheitsfachleuten, die dem Aufruf der Ärzte für die Rebellion für Dringlichkeit und gewaltfreies direktes Handeln zustimmen". Mit ihrem Schwerpunkt auf der planetaren Gesundheit werden sie bei den bevorstehenden Protesten eine herausragende Rolle spielen. Es ist vielleicht übertrieben zu sagen, dass Gesundheitsfachkräfte 14 Tage Zeit haben, um die Welt zu verändern. Aber nicht sehr übertrieben.
+
+(Übersetzt mit Hilfe von www.DeepL.com/Translator)
+
+Ausgehend vom Konzept der planetaren Gesundheit können wir die Verbindung der COVID-19-Pandemie mit dem Überschreiten der planetaren Grenzen sichtbar machen. Die Wahrnehmung der Pandemie als einer Krise, die die Klimakrise überdeckt, verkehrt die Fakten: Die Coronakrise und die Klimakrise sind Auswirkungen derselben Ursachen.
+
+
 
 ## Transkription des Videos von Le Monde:
 
